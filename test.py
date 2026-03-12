@@ -1,2 +1,2 @@
-def test_fail():
-    assert 1 == 2
+def test_divide():
+    assert divide(10,0) == 0
