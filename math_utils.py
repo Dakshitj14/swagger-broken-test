@@ -1,2 +1,6 @@
-a = 10 / 0
-print(a)
+a = 50
+b = 0
+
+result = a / b
+
+print(result)
